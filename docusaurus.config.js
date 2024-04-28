@@ -61,6 +61,10 @@ const config = {
     ],
   ],
 
+  plugins: [
+    '@easyops-cn/docusaurus-search-local',
+  ]
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
